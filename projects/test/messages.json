@@ -1,0 +1,71 @@
+{
+  "messages": [
+    {
+      "date": "2017-08-20",
+      "time": "23:53",
+      "type": "designer",
+      "content": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections."
+    },
+    {
+      "date": "2017-08-22",
+      "time": "14:20",
+      "type": "client",
+      "content": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections."
+    },
+    {
+      "date": "2017-08-22",
+      "time": "15:12",
+      "type": "designer",
+      "content": "The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. \"What's happened to me?"
+    },
+    {
+      "date": "2017-08-23",
+      "time": "9:33",
+      "type": "client",
+      "content": "A collection of textile samples lay spread out on the table"
+    },
+    {
+      "date": "2017-08-23",
+      "time": "9:35",
+      "type": "client",
+      "content": "The quick, brown fox jumps over a lazy dog."
+    }
+  ],
+
+  "comments": {
+    "Homepage": {
+      "Large": {
+        "A": {
+          "1": {
+            "pos": [500,200],
+            "date": "2017-08-23",
+            "time": "9:33",
+            "type": "client",
+            "content": "A collection of textile samples lay spread out on the table."
+          },
+          "2": {
+            "pos": [600,300],
+            "date": "2017-08-23",
+            "time": "9:36",
+            "type": "client",
+            "content": "Gregor then turned to look out the window at the dull weather."
+          },
+          "3": {
+            "pos": [550,700],
+            "date": "2017-08-23",
+            "time": "10:59",
+            "type": "designer",
+            "content": "Drops."
+          },
+          "4": {
+            "pos": [1550,10],
+            "date": "2017-08-23",
+            "time": "10:59",
+            "type": "designer",
+            "content": "Drops."
+          }
+        }
+      }
+    }
+  }
+}
