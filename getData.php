@@ -7,7 +7,6 @@ $data = $app->getData();
 header('Access-Control-Allow-Origin: *');
 header('Content-Type: application/json');
 
-
 $json = json_encode($data);
 echo $json;
 /*
