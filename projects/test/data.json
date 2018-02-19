@@ -2,7 +2,7 @@
   "projectId": "test",
   "name": "First project",
   "numberOfVersions": 2,
-  "password": "098f6bcd4621d373cade4e832627b4f6",
+  "password": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
   "error": "",
   "devices": {
     "Small": {
@@ -10,7 +10,7 @@
       "cHeight": 667,
       "dWidth": 2000,
       "dHeight": 1400,
-      "fileName": "test/devices/smartphone.png",
+      "fileName": "test\/devices\/smartphone.png",
       "defaultBgImage": "Desk"
     },
     "Medium": {
@@ -18,7 +18,7 @@
       "cHeight": 1024,
       "dWidth": 2000,
       "dHeight": 1900,
-      "fileName": "test/devices/tablet.png",
+      "fileName": "test\/devices\/tablet.png",
       "defaultBgImage": "Office"
     },
     "Large": {
@@ -26,23 +26,23 @@
       "cHeight": 862,
       "dWidth": 2000,
       "dHeight": 1400,
-      "fileName": "test/devices/notebook.png",
+      "fileName": "test\/devices\/notebook.png",
       "defaultBgImage": "Table"
     }
   },
   "backgrounds": {
     "Desk": {
-      "fileName": "test/backgrounds/desk.jpg",
+      "fileName": "test\/backgrounds\/desk.jpg",
       "bgSize": "cover",
       "bgPosition": "center center"
     },
     "Office": {
-      "fileName": "test/backgrounds/office.jpg",
+      "fileName": "test\/backgrounds\/office.jpg",
       "bgSize": "cover",
       "bgPosition": "center center"
     },
     "Table": {
-      "fileName": "test/backgrounds/table.jpg",
+      "fileName": "test\/backgrounds\/table.jpg",
       "bgSize": "cover",
       "bgPosition": "center bottom"
     }
@@ -406,7 +406,6 @@
             }
           },
           "bWidth": 1200
-
         }
       }
     }
