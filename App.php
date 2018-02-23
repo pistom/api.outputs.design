@@ -104,4 +104,19 @@ class App
         }
         return $response;
     }
+
+    public function getImagesList($dir)
+    {
+        $results = [];
+        if (file_exists($dir)) {
+            $files = scandir($dir);
+            $excludedFiles = ['.', '..', 'backgrounds', 'devices', 'data.json', 'messages.json'];
+            foreach ($files as $file) {
+                if (!in_array($file, $excludedFiles)) {
+                    array_push($results, $file);
+                }
+            }
+        }
+        return $results;
+    }
 }

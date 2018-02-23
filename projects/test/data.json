@@ -6,27 +6,27 @@
   "error": "",
   "devices": {
     "Small": {
+      "fileName": "test\/devices\/smartphone.png",
       "cWidth": 375,
       "cHeight": 667,
       "dWidth": 2000,
       "dHeight": 1400,
-      "fileName": "test\/devices\/smartphone.png",
       "defaultBgImage": "Desk"
     },
     "Medium": {
+      "fileName": "test\/devices\/tablet.png",
       "cWidth": 768,
       "cHeight": 1024,
       "dWidth": 2000,
       "dHeight": 1900,
-      "fileName": "test\/devices\/tablet.png",
       "defaultBgImage": "Office"
     },
     "Large": {
+      "fileName": "test\/devices\/notebook.png",
       "cWidth": 1366,
       "cHeight": 862,
       "dWidth": 2000,
       "dHeight": 1400,
-      "fileName": "test\/devices\/notebook.png",
       "defaultBgImage": "Table"
     }
   },
@@ -64,7 +64,7 @@
               "iHeight": 2564
             }
           },
-          "bWidth": 360
+          "bWidth": 362
         },
         "Medium": {
           "designs": {
