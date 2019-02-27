@@ -82,11 +82,9 @@ class App
 
     public function saveData($data)
     {
-
         foreach ($data as $key => $value) {
             $this->data[$key] = $value;
         }
-
         return $this->storeData();
     }
 
@@ -118,5 +116,9 @@ class App
             }
         }
         return $results;
+    }
+
+    public function createProject(){
+
     }
 }
